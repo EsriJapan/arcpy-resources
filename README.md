@@ -3,10 +3,10 @@ ArcGIS ユーザーのための Python/ArcPy を用いた基礎的な学習用�
 
 
 ## 資料とデータ
-* [ArcGIS ユーザーのための Python 基礎]()
-* [ArcPy を使用したスクリプト作成 ArcMap 版]()
-* [ArcPy を使用したスクリプト作成 ArcGIS Pro 版]()
-* [データ]()
+* [ArcGIS ユーザーのための Python 基礎](https://github.com/EsriJapan/arcpy-resources/blob/master/ArcGIS%20%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%20Python%20%E5%9F%BA%E7%A4%8E.pdf)
+* [ArcPy を使用したスクリプト作成 ArcMap 版](https://github.com/EsriJapan/arcpy-resources/blob/master/ArcPy%20%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BD%9C%E6%88%90_ArcMap.pdf)
+* [ArcPy を使用したスクリプト作成 ArcGIS Pro 版](https://github.com/EsriJapan/arcpy-resources/blob/master/ArcPy%20%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BD%9C%E6%88%90_ArcGISPro.pdf)
+* [データ](https://github.com/EsriJapan/arcpy-resources/tree/master/data)
 
 ## 動作環境
 * [ArcGIS Pro](https://www.esrij.com/products/arcgis-desktop/environments/arcgis-pro/)  
