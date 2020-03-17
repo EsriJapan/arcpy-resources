@@ -2,3 +2,5 @@
 * data.zip をダウンロードし解凍後に data フォルダーを C ドライブ直下に配置して学習にご活用ください。<br>※サンプル コード内のデータのパスやファイル名等を変えていただくことで任意の場所でもお使いいただけます。
 
 * data フォルダーには「[Python によるプログラミング - ArcMap 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcMap.pdf)」と「[Python によるプログラミング - ArcGIS Pro 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcGISPro.pdf)」の演習で使用するマップ ドキュメントやプロジェクト ファイルが含まれています。ArcMap、ArcGIS Pro の Python ウィンドウにコードを入力し、スクリプトを実行しながら学習することができます。
+
+* [source]() には「[Python によるプログラミング - ArcMap 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcMap.pdf)」と「[Python によるプログラミング - ArcGIS Pro 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcGISPro.pdf)」の演習で使用するスクリプト ファイルが含まれています。演習の際にご利用ください
