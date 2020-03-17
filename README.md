@@ -9,8 +9,8 @@ ArcGIS ユーザーのための Python/ArcPy を用いた基礎的な学習用�
 * [演習データ](https://github.com/EsriJapan/arcpy-resources/tree/master/%E6%BC%94%E7%BF%92%E3%83%87%E3%83%BC%E3%82%BF)
 
 ## 動作環境
-* [ArcGIS Pro](https://www.esrij.com/products/arcgis-desktop/environments/arcgis-pro/)  
-* [ArcMap](https://www.esrij.com/products/arcgis-desktop/environments/arcmap/) 
+* [ArcGIS Pro](https://www.esrij.com/products/arcgis-desktop/environments/arcgis-pro/) 2.4 以上
+* [ArcMap](https://www.esrij.com/products/arcgis-desktop/environments/arcmap/) 10.5 以上 
 
 ## ライセンス
 Copyright 2020 Esri Japan Corporation.
