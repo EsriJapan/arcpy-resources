@@ -4,8 +4,8 @@ ArcGIS ユーザーのための Python/ArcPy を用いた基礎的な学習用�
 
 ## 資料とデータ
 * [ArcGIS ユーザーのための Python 基礎](https://github.com/EsriJapan/arcpy-resources/blob/master/ArcGIS%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEPython%E5%9F%BA%E7%A4%8E.pdf)
-* [Python によるプログラミング - ArcMap 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcMap.pdf)
-* [Python によるプログラミング - ArcGIS Pro 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcGISPro.pdf)
+* [Python によるプログラミング - ArcMap 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcMap.pdf)
+* [Python によるプログラミング - ArcGIS Pro 版](https://github.com/EsriJapan/arcpy-resources/blob/master/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0_ArcGISPro.pdf)
 * [演習データ](https://github.com/EsriJapan/arcpy-resources/tree/master/%E6%BC%94%E7%BF%92%E3%83%87%E3%83%BC%E3%82%BF)
 
 ## 動作環境
